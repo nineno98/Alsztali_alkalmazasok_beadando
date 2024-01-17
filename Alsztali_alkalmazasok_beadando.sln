@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expedicio", "Expedicio\Expedicio.csproj", "{2672AA21-1589-4DCF-BB4C-7B7DF020F8E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotellift", "Hotellift\Hotellift.csproj", "{1B8F96E1-0B7C-4825-BDB3-E000F6334B1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2672AA21-1589-4DCF-BB4C-7B7DF020F8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2672AA21-1589-4DCF-BB4C-7B7DF020F8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2672AA21-1589-4DCF-BB4C-7B7DF020F8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8F96E1-0B7C-4825-BDB3-E000F6334B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8F96E1-0B7C-4825-BDB3-E000F6334B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8F96E1-0B7C-4825-BDB3-E000F6334B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8F96E1-0B7C-4825-BDB3-E000F6334B1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
