@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expedicio", "Expedicio\Expe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotellift", "Hotellift\Hotellift.csproj", "{1B8F96E1-0B7C-4825-BDB3-E000F6334B1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vasmegye", "Vasmegye\Vasmegye.csproj", "{D2E39D6A-9892-489C-8CF2-E0BD9D6F0372}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1B8F96E1-0B7C-4825-BDB3-E000F6334B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B8F96E1-0B7C-4825-BDB3-E000F6334B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B8F96E1-0B7C-4825-BDB3-E000F6334B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E39D6A-9892-489C-8CF2-E0BD9D6F0372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E39D6A-9892-489C-8CF2-E0BD9D6F0372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E39D6A-9892-489C-8CF2-E0BD9D6F0372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E39D6A-9892-489C-8CF2-E0BD9D6F0372}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
